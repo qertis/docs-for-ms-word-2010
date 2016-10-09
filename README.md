@@ -1,5 +1,4 @@
-# docs-for-ms-word-2010
-Google Docs Plugin for Microsoft Word 2010
+# Google Docs Plugin for Microsoft Word 2010
 
 ## Возможности плагина
 * Плагин для Microsoft Word (2010) позволяющий работать с документами Google прямо из Office Word!
@@ -26,4 +25,4 @@ Google Docs Plugin for Microsoft Word 2010
 * Google Аккаунт 
 * Подключение к интернету для реактивного обновления
 
-<iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="http://img.youtube.com/vi/xxt4ult65XI/0.jpg" frameborder="0" height="266" src="https://www.youtube.com/embed/xxt4ult65XI?feature=player_embedded" width="320"></iframe>
+[Youtube Promo](https://www.youtube.com/watch?v=xxt4ult65XI)
