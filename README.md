@@ -1,4 +1,5 @@
 # Google Docs Plugin for Microsoft Word 2010
+![logo](https://raw.githubusercontent.com/qertis/docs-for-ms-word-2010/master/wordplugin.png "Logo Title")
 
 ## Возможности плагина
 * Плагин для Microsoft Word (2010) позволяющий работать с документами Google прямо из Office Word!
